@@ -12,7 +12,7 @@
     "aws-sdk": "~2.290.0"
   },
   "devDependencies": {
-    "coveralls": "^2.11.8",
+    "coveralls": "^3.0.7",
     "eslint": "^3.15.0",
     "eslint-config-google": "~0.6.0",
     "istanbul": "~0.4.2",
